@@ -1,4 +1,5 @@
 #1 Learn GIT
 #2 Learn GIT Commands
 #3 Learn GIT Architecture
-
+#4 Learn about init git ,add and commit
+#5 To modify and save the file and add to staging phase and commit it.
