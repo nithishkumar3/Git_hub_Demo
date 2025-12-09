@@ -1,0 +1,11 @@
+name: hello-world
+run-name: ${{ github.actor }} is learning GitHub Actions
+on: push
+jobs:
+  my-job:
+    runs-on: amazon-linux
+    steps:
+      - name: my-step
+        run: echo "Hello World!"
+      - name: my-name
+        run: echo "Nithish Kumar R N"
