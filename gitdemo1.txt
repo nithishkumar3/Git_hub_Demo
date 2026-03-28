@@ -3,3 +3,4 @@
 #3 Learn GIT Architecture
 #4 Learn about init git ,add and commit
 #5 To modify and save the file and add to staging phase and commit it.
+#6 Create new branch and move to new branch and update the file in it.
